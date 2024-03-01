@@ -8,4 +8,9 @@ About the Dataset - This dataset contains records of Order ID, Customer Segment 
 - **Problem and Solution Statement**
 
   Values inside the data is unorganized and need to structure in proper of way to improve its readiability.
+- **About The Spreadsheet**
+
+1. Dirty 1 - Actual Data that is in unorganized state.
+2. Clean 1 - Solution that need to be achieve.
+3. Step 0 - Understanding the Data and building the basic Structure.
 
