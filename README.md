@@ -17,3 +17,5 @@ About the Dataset - This dataset contains records of Order ID, Customer Segment 
 5. Step_2_Final - This is the Final Attempt to achieve the solution to make it readiable.
 6. Validation - This is the cross check if the result achieved in "Step_2_Final" match with "Clean 1"
 
+### [Sales Data](https://github.com/iamrgyan/Excel/blob/main/Badly-Structured-Sales-Data-1.xlsx)
+
