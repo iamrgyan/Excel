@@ -3,7 +3,7 @@ This repository is collection of projects built on Microsoft Excel. These projec
 
 # Excel - Data Cleaning
 
-## [1]. Sales Data
+## [1]. Sales Data - 1
 About the Dataset - This dataset contains records of Order ID, Customer Segment (Consumer, Corporate, Home Office), Shipment Mode (First Class, Same Day, Second Class, Standard Class), and Sales Amount.
 - **Problem and Solution Statement**
 
@@ -16,6 +16,9 @@ About the Dataset - This dataset contains records of Order ID, Customer Segment 
 4. Step_1 - This is the 1st Attempt to organize the data to get final result.
 5. Step_2_Final - This is the Final Attempt to achieve the solution to make it readiable.
 6. Validation - This is the cross check if the result achieved in "Step_2_Final" match with "Clean 1"
+
+- **Functions Used**
+IF | Index & Match | Vlook-Up
 
 ### [Sales Data](https://github.com/iamrgyan/Excel/blob/main/Badly-Structured-Sales-Data-1.xlsx)
 
