@@ -5,5 +5,5 @@ This repository is collection of projects built on Microsoft Excel. These projec
 
 ## [1]. Sales Data
 About the Dataset - This dataset contains records of Order ID, Customer Segment (Consumer, Corporate, Home Office), Shipment Mode (First Class, Same Day, Second Class, Standard Class), and Sales Amount.
-# # Problem and Solution Statement
+## Problem and Solution Statement
 Values inside the data is unorganized and need to structure in proper of way to improve its readiability.
