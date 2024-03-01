@@ -12,5 +12,8 @@ About the Dataset - This dataset contains records of Order ID, Customer Segment 
 
 1. Dirty 1 - Actual Data that is in unorganized state.
 2. Clean 1 - Solution that need to be achieve.
-3. Step 0 - Understanding the Data and building the basic Structure.
+3. Step_0 - Understanding the Data and building the basic Structure.
+4. Step_1 - This is the 1st Attempt to organize the data to get final result.
+5. Step_2_Final - This is the Final Attempt to achieve the solution to make it readiable.
+6. Validation - This is the cross check if the result achieved in "Step_2_Final" match with "Clean 1"
 
