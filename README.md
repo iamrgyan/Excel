@@ -18,7 +18,7 @@ About the Dataset - This dataset contains records of Order ID, Customer Segment 
 6. Validation - This is the cross check if the result achieved in "Step_2_Final" match with "Clean 1"
 
 - **Functions Used**
-  IF | Index & Match | Vlook-Up
+  - IF | Index & Match | Vlook-Up
 
 ### [Sales Data](https://github.com/iamrgyan/Excel/blob/main/Badly-Structured-Sales-Data-1.xlsx)
 
