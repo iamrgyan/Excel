@@ -37,3 +37,5 @@ About the Dataset - This dataset contains records Date & Time of Transaction, Sa
 
 - **Functions Used**
   - Split | Substitute | Count | SUMIF | CountIF | AverageIF | MIN-MAX-MODE with IFS
+
+ ### [Sales Transaction Data](https://github.com/iamrgyan/Excel/blob/main/Sales%20Transaction%20Data.xlsx)
