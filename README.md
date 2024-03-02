@@ -22,10 +22,11 @@ About the Dataset - This dataset contains records of Order ID, Customer Segment 
 
 ### [Sales Data](https://github.com/iamrgyan/Excel/blob/main/Badly-Structured-Sales-Data-1.xlsx)
 
-## [1]. Sales Transaction Data
+## [2]. Sales Transaction Data
 About the Dataset - This dataset contains records Date & Time of Transaction, Sales Amount, and Transaction Remarks.
 
 - **Problem and Solution Statement**
+  
   Values under the Transaction Remark column contains important information about Sales but the text is merged with each other and need to seperate it to make it   meaningful.
 
 - **About The Spreadsheet**
