@@ -56,3 +56,4 @@ About the Dataset - This dataset contains records of Order Date, Customer Segmen
 
 - **Functions Used**
   - IF | Index & Match | Vlook-Up
+### [Sales Data - 2](https://github.com/iamrgyan/Excel/blob/main/Badly-Structured-Sales-Data-2.xlsx)
