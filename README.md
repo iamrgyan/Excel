@@ -20,7 +20,7 @@ About the Dataset - This dataset contains records of Order ID, Customer Segment 
 - **Functions Used**
   - IF | Index & Match | Vlook-Up
 
-### [Sales Data 1](https://github.com/iamrgyan/Excel/blob/main/Badly-Structured-Sales-Data-1.xlsx)
+### [Sales Data - 1](https://github.com/iamrgyan/Excel/blob/main/Badly-Structured-Sales-Data-1.xlsx)
 
 ## [2]. Sales Transaction Data
 About the Dataset - This dataset contains records Date & Time of Transaction, Sales Amount, and Transaction Remarks.
