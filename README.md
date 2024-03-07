@@ -74,4 +74,4 @@ About the Dataset - This dataset contains records of Order ID, Order Date, Custo
 
 - **Functions Used**
   - IF | Index & Match | Vlook-Up | SUMIF | Nested Functions
-### [Sales Data - 3](https://github.com/iamrgyan/Excel/blob/main/Badly-Structured-Sales-Data-2.xlsx)
+### [Sales Data - 3](https://github.com/iamrgyan/Excel/blob/main/Badly-Structured-Sales-Data-3.xlsx)
