@@ -57,3 +57,21 @@ About the Dataset - This dataset contains records of Order Date, Customer Segmen
 - **Functions Used**
   - IF | Index & Match | Vlook-Up
 ### [Sales Data - 2](https://github.com/iamrgyan/Excel/blob/main/Badly-Structured-Sales-Data-2.xlsx)
+
+## [4]. Sales Data - 3
+About the Dataset - This dataset contains records of Order ID, Order Date, Customer Segment (Consumer, Corporate, Home Office), Shipment Mode (First Class, Same Day, Second Class, Standard Class), and Sales Amount.
+- **Problem and Solution Statement**
+
+  Values inside the data is unorganized and need to structure in proper of way to improve its readiability.
+- **About The Spreadsheet**
+
+1. Dirty 3 - Actual Data that is in unorganized state.
+2. Clean 3 - Solution that need to be achieve.
+3. Step_0 - Understanding the Data and building the basic Structure.
+4. Step_1 - This is the 1st Attempt to organize the data to get final result.
+5. Step_2_Final - This is the Final Attempt to achieve the solution to make it readiable.
+6. Validation - This is the cross check if the result achieved in "Step_2_Final" match with "Clean 2".
+
+- **Functions Used**
+  - IF | Index & Match | Vlook-Up | SUMIF | Nested Functions
+### [Sales Data - 3](https://github.com/iamrgyan/Excel/blob/main/Badly-Structured-Sales-Data-2.xlsx)
