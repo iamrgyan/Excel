@@ -9,6 +9,7 @@ This repository is collection of projects built on Microsoft Excel. These projec
 
 
 ## [1]. Sales Data - 1
+## [1]. [Sales Data - 1](https://github.com/iamrgyan/Excel/blob/main/Badly-Structured-Sales-Data-1.xlsx)
 
 
 ### [Sales Data - 1](https://github.com/iamrgyan/Excel/blob/main/Badly-Structured-Sales-Data-1.xlsx)
