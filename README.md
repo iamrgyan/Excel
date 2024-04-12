@@ -8,6 +8,7 @@ This repository is collection of projects built on Microsoft Excel. These projec
   - Nested Functions | Logical Functions | Lookup and Reference Functions | Statistical Functions | Text Functions
 
 ## [1]. [Nested Functions - 1](https://github.com/iamrgyan/Excel/blob/main/Nested%20Function_1.xlsx)
+## [2]. [Nested Functions - 2](https://github.com/iamrgyan/Excel/blob/main/Nested%20Function_2.xlsx)
 
 # Excel - Data Cleaning
 - **Description**
